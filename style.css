@@ -109,7 +109,6 @@ body {
 
 @media (max-width: 375px) {
     .card {
-        height: auto;
         padding: 15px;
     }
 
