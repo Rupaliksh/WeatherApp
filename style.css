@@ -126,6 +126,12 @@ body {
 
     .search button {
         margin-top: 10px;
+        width: 100%; 
+        max-width: 100px; 
+    }
+
+    .search button img {
+        width: 80%; 
     }
 
     .weather-icon {
